@@ -1,4 +1,4 @@
-# Advent of Code 2023: Day 2 - Puzzle 1
+# Advent of Code 2023: Day 2 - Puzzle 2
 
 --- Day 2: Cube Conundrum ---
 
