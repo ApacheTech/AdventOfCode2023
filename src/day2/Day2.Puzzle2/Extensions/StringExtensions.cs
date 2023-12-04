@@ -1,4 +1,4 @@
-﻿namespace Day2.Puzzle1.Extensions;
+﻿namespace Day2.Puzzle2.Extensions;
 
 public static class StringExtensions
 {

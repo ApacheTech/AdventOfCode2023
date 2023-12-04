@@ -1,6 +1,6 @@
-﻿using Day2.Puzzle1.Extensions;
+﻿using Day2.Puzzle2.Extensions;
 
-namespace Day2.Puzzle1;
+namespace Day2.Puzzle2;
 
 public class Game
 {

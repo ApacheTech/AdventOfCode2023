@@ -1,4 +1,4 @@
-﻿using Day2.Puzzle1;
+﻿using Day2.Puzzle2;
 var lines = await File.ReadAllLinesAsync("input.txt");
 Console.WriteLine(lines
     .Select(p => new Game(p))
