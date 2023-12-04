@@ -30,6 +30,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 4", "Day 4", "{B6901884
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4.Puzzle1", "src\day4\Day4.Puzzle1\Day4.Puzzle1.csproj", "{80E8713F-3310-49B2-9E0B-D25235F02F94}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4.Puzzle2", "src\day4\Day4.Puzzle2\Day4.Puzzle2.csproj", "{A9AFCA8B-0AB1-46B0-9B17-DFE3E8B4E09E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{80E8713F-3310-49B2-9E0B-D25235F02F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E8713F-3310-49B2-9E0B-D25235F02F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E8713F-3310-49B2-9E0B-D25235F02F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AFCA8B-0AB1-46B0-9B17-DFE3E8B4E09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AFCA8B-0AB1-46B0-9B17-DFE3E8B4E09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AFCA8B-0AB1-46B0-9B17-DFE3E8B4E09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AFCA8B-0AB1-46B0-9B17-DFE3E8B4E09E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{E251C800-DEB2-4B86-9A47-EE3D1B6C0D28} = {0DA2A21A-5E1B-4C35-8DEA-34091D2038F2}
 		{BABEA7A5-3F15-4046-8A4A-5AE668C375FE} = {0DA2A21A-5E1B-4C35-8DEA-34091D2038F2}
 		{80E8713F-3310-49B2-9E0B-D25235F02F94} = {B6901884-E01B-4E2C-8A5B-8BFC89704B25}
+		{A9AFCA8B-0AB1-46B0-9B17-DFE3E8B4E09E} = {B6901884-E01B-4E2C-8A5B-8BFC89704B25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C407B8AE-40E5-4CE6-98A6-164D60B8C042}
