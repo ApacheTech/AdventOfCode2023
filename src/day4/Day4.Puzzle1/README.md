@@ -1,4 +1,4 @@
-# Advent of Code 2023: Day 3 - Puzzle 1
+# Advent of Code 2023: Day 4 - Puzzle 1
 
 --- Day 4: Scratchcards ---
 
